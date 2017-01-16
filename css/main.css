@@ -321,7 +321,7 @@ small, .font_small {
   font-size: 0.75em; }
 
 body {
-  background: #fff;
+  background: red;
   line-height: 1.45;
   font-weight: 400;
   max-width: 30em;
